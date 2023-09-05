@@ -29,7 +29,7 @@ You may study `testCaclulate1` as a sample. This test case should make a connect
 
 What benefit do we have from having integration tests in our project?
 ```
-Your though here
+Ensuring that different components of your JSP application work together correctly when deployed on the Jetty server.
 ```
 
 
